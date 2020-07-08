@@ -1,3 +1,3 @@
 # hellor-world
-Felipe, eu gosto de programar em python e C#
+Eu sou Felipe e gosto de programar em Python e C#
 a test repository
